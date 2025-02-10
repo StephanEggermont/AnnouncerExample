@@ -1,0 +1,1 @@
+## Installation```stMetacello new	repository: 'github://StephanEggermont/AnnouncerExample:main/src';	baseline: 'AnnouncerExample';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfAnnouncerExample asClass loadLepiter```
